@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/razporejevalnik/static/css/main.dfbd97da.css",
+    "main.js": "/razporejevalnik/static/js/main.57bf2fa9.js",
+    "index.html": "/razporejevalnik/index.html",
+    "main.dfbd97da.css.map": "/razporejevalnik/static/css/main.dfbd97da.css.map",
+    "main.57bf2fa9.js.map": "/razporejevalnik/static/js/main.57bf2fa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbd97da.css",
+    "static/js/main.57bf2fa9.js"
+  ]
+}
