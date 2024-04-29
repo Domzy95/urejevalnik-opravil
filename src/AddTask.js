@@ -21,9 +21,9 @@ function AddTask({
         onChange={handlePriorityChange}
         className="max-w-sm mt-10 ml-10 border-solid border-2 border-black-800 rounded-md p-2"
       >
-        <option value="top">Visoka </option>
-        <option value="middle">Srednja </option>
-        <option value="low">Nizka </option>
+        <option value="top">Visoka prioriteta </option>
+        <option value="middle">Srednja prioriteta </option>
+        <option value="low">Nizka prioriteta </option>
       </select>
       <input
         value={deadline}
