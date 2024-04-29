@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/urejevalnik-opravil/static/css/main.dfbd97da.css",
-    "main.js": "/urejevalnik-opravil/static/js/main.5d4ad8b7.js",
+    "main.css": "/urejevalnik-opravil/static/css/main.901f4258.css",
+    "main.js": "/urejevalnik-opravil/static/js/main.320beb6d.js",
     "index.html": "/urejevalnik-opravil/index.html",
-    "main.dfbd97da.css.map": "/urejevalnik-opravil/static/css/main.dfbd97da.css.map",
-    "main.5d4ad8b7.js.map": "/urejevalnik-opravil/static/js/main.5d4ad8b7.js.map"
+    "main.901f4258.css.map": "/urejevalnik-opravil/static/css/main.901f4258.css.map",
+    "main.320beb6d.js.map": "/urejevalnik-opravil/static/js/main.320beb6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfbd97da.css",
-    "static/js/main.5d4ad8b7.js"
+    "static/css/main.901f4258.css",
+    "static/js/main.320beb6d.js"
   ]
 }
